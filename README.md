@@ -61,5 +61,5 @@ The circuit is powered by a DC supply (typically 5V or 9V) connected at the VCC 
 ## Layout diagram:
  
 # RESULT:
-Thus, the schematic and PCB layout for the IoT based fan speed control circuit has been successfully designed using Altium software.
+Thus, the schematic and PCB layout for the LED sequencer circuit has been successfully designed using Altium software.
 
