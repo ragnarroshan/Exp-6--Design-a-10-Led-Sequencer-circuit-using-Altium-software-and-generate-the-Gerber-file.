@@ -54,12 +54,11 @@ The circuit is powered by a DC supply (typically 5V or 9V) connected at the VCC 
 # CIRCUIT DIAGRAM:
 ![image](https://github.com/user-attachments/assets/2cb084f1-22ea-4d4e-816d-eee72cd2918f)
 
- 
 # EXPECTED OUTPUT:
 ## Schematic diagram:
- 
+![image](https://github.com/user-attachments/assets/a5c55c7a-3950-4cb8-9179-937e21c43476)
 ## Layout diagram:
+ ![image](https://github.com/user-attachments/assets/5762403f-f739-41d6-884f-904d9b202af7)
  
 # RESULT:
-Thus, the schematic and PCB layout for the LED sequencer circuit has been successfully designed using Altium software.
-
+Thus, the schematic and PCB layout for the IoT based fan speed control circuit has been successfully designed using Altium software.
